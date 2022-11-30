@@ -1,39 +1,71 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+<a name="readme-top"></a>
 
-# Project Name
-Hello Microverse
+<div align="center">
 
-> Description the project.
-Set up a linter for HTML and CSS and make sure that any files that are not relevant are ignored by git.
-Added descriptive README file my project.
+  <img src="./img/murple_logo.png" alt="logo" width="140"  height="auto"/>
+  <br/>
+
+  <h3><b>Microverse README Template</b></h3>
+
+</div>
+
+# 📗 Table of Contents
+
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
+  - [🚀 Live Demo](#live-demo)
+- [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [Run tests](#run-tests)
+  - [Deployment](#triangular_flag_on_post-deployment)
+- [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [❓ FAQ](#faq)
+- [📝 License](#license)
+
+# 📖 [Hello Microverse] <a name="about-project"></a>
+
+**[Hello Microverse]** is a first week project in the microvese and the following were implemented;
+Set up a linter for HTML and CSS and make sure that irrelevant files are ignored by git;
+Added descriptive README file.
 Add 3 files each one in a separate commit:
 A .html file that includes a header with the text "Hello Microverse!". Use h1 tag for that.
 A .css file that includes one class with styles for your header (make it in your favorite color).
 A test.md file with the text "This file should be ignored by git".
 
-## Built With
-HTML AND CSS
+## 🛠 Built With<a name="built-with"></a>
 
-- Major languages
-- Frameworks
-- Technologies used
+### Tech Stack <a name="tech-stack"></a>
 
-## Live Demo (if available)
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li><a href="#"> HTML AND CSS</a></li>
+  </ul>
+</details>
 
-[Live Demo Link](https://livedemo.com)
+<p align="right">(<a href="#readme-top">back to top</a>)</p> 
 
+## 💻 Getting Started <a name="getting-started"></a>
 
-## Getting Started
+> Describe how a new developer could make use of your project.
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
+To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
 ### Setup
+
+  cd my-folder
+  git clone https://github.com/EmekaEmmanuel/my_hello_microverse.git 
 
 ### Install
 
@@ -43,34 +75,53 @@ To get a local copy up and running follow these simple example steps.
 
 ### Deployment
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-## Authors
+## 👥 Authors <a name="authors"></a>
 
-👤 **Author1**
+👤 **Emeka Emmanuel**
 
 - GitHub: [@emekaemmanuel](https://github.com/emekaemmanuel)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/emeka-ugboaja-167820226)
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 🤝 Contributing
+## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/EmekaEmmanuel/hello_microverse/issues).
+Feel free to check the [issues page](../../issues/)(https://github.com/EmekaEmmanuel/hello_microverse/issues).
 
-## Show your support
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+ 
 
-Give a ⭐️ if you like this project!
+## ⭐️ Show your support <a name="support"></a>
 
-## Acknowledgments
+Give a ⭐️ if you like this project! 
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 📝 License
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## ❓ FAQ <a name="faq"></a>
+
+- **[Question_1]**
+
+  - [Answer_1]
+
+- **[Question_2]**
+
+  - [Answer_2]
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 📝 License <a name="license"></a>
 
 This project is [MIT](./LICENSE) licensed.
 
 _NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
